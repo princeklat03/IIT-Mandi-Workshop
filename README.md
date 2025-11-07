@@ -1,5 +1,5 @@
 # IIT-Mandi-Workshop
-Introduction to Python for Biologists
+**Introduction to Python for Biologists**
 
 Title: Python for Biologists and Beginners – An Interactive Hands-on Workshop
 Duration: 4 Hours (Online – WebEx)
@@ -8,18 +8,18 @@ Host Institute: School of Biosciences and Bioengineering (SBB), IIT Mandi
 Date: Nov 8th 2025 (9:00 AM to 1:00 PM IST)
 ________________________________________
 
-Instructor Profile
+**Instructor Profile**
 Dr. Prince Kumar Lat is a scientist specializing in AI-driven drug discovery and synthesis. He holds a PhD from Simon Fraser University, Canada, and a B.Tech in Bioengineering from IIT Kanpur, India. With over five years of experience in biophysics and computational biology, he has published research in leading journals. His current work focuses on developing large language models to predict drug synthesis pathways.
 
 Passionate about education and mentorship, Dr. Lat created the Udemy course Python for Biologists and Beginners to help biologists acquire essential computational and data analysis skills.
 
 ________________________________________
 
-Session Overview
+**Session Overview**
 This session introduces participants to Python programming through biological and bioinformatics examples. The workshop is structured to build progressively—from Python fundamentals to practical bioinformatics and cheminformatics analysis using Biopython and RDKit. Each segment includes interactive coding, short exercises, and a mini integrated project designed to reinforce learning.
 ________________________________________
 
-Session Breakdown
+**Session Breakdown**
 1. Introduction & Python Basics (≈60 min)
 •	Overview of Python and its relevance in life sciences
 •	Installing and setting up the Python environment (Colab / Jupyter)
@@ -60,7 +60,7 @@ o	Add a chemical structure component with RDKit
 •	Group activity: participants complete guided mini-project live
 ________________________________________
 
-Learning Outcomes
+**Learning Outcomes**
 By the end of this seminar, participants will be able to:
 •	Write and execute Python scripts confidently
 •	Manipulate biological data using Biopython
@@ -69,13 +69,13 @@ By the end of this seminar, participants will be able to:
 •	Integrate multiple tools to build reproducible, data-driven biological analyses
 ________________________________________
 
-Format and Resources
+**Format and Resources**
 •	Platform: WebEx (live coding via Jupyter/Colab)
 •	Style: Highly interactive with exercises and Q&A
 •	Prerequisites: Basic understanding of biology; no prior programming experience required
 •	Materials: Shared notebooks, datasets, and summary slides
 
 ________________________________________
-Bonus
+**Bonus**
 🎁 Free Access to the Best-Selling Python Course on Udemy:
 All participants will receive a special coupon during the workshop to access the full Python for Biologists and Beginners Udemy course for free. Here is the link to the course.
